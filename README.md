@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://kauantoldo.github.io/E-commerceProductPage/)
+- Solution URL: [Solution](https://kauantoldo.github.io/E-commerceProductPage/)
 
 ## My process
 
